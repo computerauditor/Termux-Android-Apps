@@ -141,13 +141,14 @@ You need:
 - Tkinter
 - Termux-X11/XFCE if you want the graphical interface on your XFCE desktop
 
-The project uses **Python 3.14**.
+The project uses **Python 3.14** as well aapt2
 
 Install the required Termux packages:
 
 ```bash
 pkg update
 pkg install python tk python-tkinter
+pkg install aapt2
 ```
 
 ```bash
