@@ -12,8 +12,8 @@ No application package names are hard-coded.
 ## 🖥️ Screenshot
 
 ```markdown
-
 ```
+![Android Application Manager](Screenshot_2026-08-29-16-12-54-47_00df01c412509efb9bd6450c382822af.jpg)
 ![Android Application Manager](Screenshot_2026-08-29-15-58-54-05_00df01c412509efb9bd6450c382822af.jpg)
 ---
 
